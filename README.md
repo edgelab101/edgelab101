@@ -8,7 +8,7 @@
 
 | 项目 | 一句话 |
 |---|---|
-| [elab-futu-research](https://github.com/edgelab101/elab-futu-research) | 把富途博主公开主页变成"可复查归档 + 时点冻结行情对照"的博主研究报告（Codex / Claude Code 双端 skill） |
+| [elab-futu-research](https://github.com/edgelab101/elab-futu-research) | 把富途/老虎博主公开主页变成"可复查归档 + 时点冻结行情对照"的博主研究报告（Codex / Claude Code 双端 skill） |
 
 更多 elab 系列 skills 陆续开源中。
 
